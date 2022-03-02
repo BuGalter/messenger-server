@@ -10,7 +10,12 @@
     "test": "lab -a @hapi/code -L",
     "lint": "eslint --ext ts --fix ./src"
   },
-  "keywords": ["Messendger", "Hapi", "WebSocket", "HTTP"],
+  "keywords": [
+    "Messendger",
+    "Hapi",
+    "WebSocket",
+    "HTTP"
+  ],
   "author": "BuGalter <wardoc78@gmail.com>",
   "license": "Apache-2.0",
   "dependencies": {
@@ -49,7 +54,7 @@
     "@typescript-eslint/eslint-plugin": "^4.23.0",
     "@typescript-eslint/parser": "^4.23.0",
     "eslint": "^6.5.1",
-    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-airbnb": "^18.2.1",
     "eslint-config-prettier": "^6.4.0",
     "eslint-config-standard": "^14.1.0",
     "eslint-plugin-import": "^2.18.2",
